@@ -13,7 +13,7 @@
 
 > **Type a ticker. Get a complete investment brief with live data, news, and AI analysis.**
 
-**[▶ Live Demo](https://huggingface.co/spaces/iamparthtripathi/stocksense)** &nbsp;|&nbsp;
+**[▶ Live Demo](https://iamparthtripathi-stocksense.hf.space/)** &nbsp;|&nbsp;
 **[📹 Demo Video](#)** &nbsp;|&nbsp;
 **[📄 Technical Blog Post](#)**
 
